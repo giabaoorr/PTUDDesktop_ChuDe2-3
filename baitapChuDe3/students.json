@@ -1,0 +1,65 @@
+[
+  {
+    "MSSV": "2010001",
+    "HoVaTenLot": "Nguyễn Văn",
+    "Ten": "An",
+    "GioiTinh": true,
+    "NgaySinh": "2002-03-15T00:00:00",
+    "Lop": "CTK44",
+    "SoCMND": "251234567",
+    "SoDienThoai": "0912345678",
+    "DiaChiLienLac": "1 Phù Đổng Thiên Vương, Đà Lạt",
+    "MonHocDangKy": [
+      "Mạng máy tính",
+      "Lập trình CSDL",
+      "Đồ án cơ sở"
+    ]
+  },
+  {
+    "MSSV": "2010002",
+    "HoVaTenLot": "Trần Thị",
+    "Ten": "Bình",
+    "GioiTinh": false,
+    "NgaySinh": "2002-08-20T00:00:00",
+    "Lop": "CTK44",
+    "SoCMND": "251234568",
+    "SoDienThoai": "0987654321",
+    "DiaChiLienLac": "29 Yersin, Đà Lạt",
+    "MonHocDangKy": [
+      "Hệ điều hành",
+      "Phương pháp NCKH",
+      "Lập trình trên thiết bị di động"
+    ]
+  },
+  {
+    "MSSV": "2110015",
+    "HoVaTenLot": "Lê Hoàng",
+    "Ten": "Cường",
+    "GioiTinh": true,
+    "NgaySinh": "2003-11-02T00:00:00",
+    "Lop": "CTK45",
+    "SoCMND": "251234569",
+    "SoDienThoai": "0905123456",
+    "DiaChiLienLac": "10 Đinh Tiên Hoàng, Đà Lạt",
+    "MonHocDangKy": [
+      "Lập trình mạng",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "1910088",
+    "HoVaTenLot": "Phạm Ngọc",
+    "Ten": "Dung",
+    "GioiTinh": false,
+    "NgaySinh": "2001-05-12T00:00:00",
+    "Lop": "CTK43",
+    "SoCMND": "251234570",
+    "SoDienThoai": "0934567890",
+    "DiaChiLienLac": "12 Bùi Thị Xuân, Đà Lạt",
+    "MonHocDangKy": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Đồ án cơ sở"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <MSSV>2010001</MSSV>
+    <HoVaTenLot>Nguyễn Văn</HoVaTenLot>
+    <Ten>An</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2002-03-15T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>251234567</SoCMND>
+    <SoDienThoai>0912345678</SoDienThoai>
+    <DiaChiLienLac>1 Phù Đổng Thiên Vương, Đà Lạt</DiaChiLienLac>
+    <MonHocDangKy>
+      <MonHoc>Mạng máy tính</MonHoc>
+      <MonHoc>Lập trình CSDL</MonHoc>
+      <MonHoc>Đồ án cơ sở</MonHoc>
+    </MonHocDangKy>
+  </Student>
+  <Student>
+    <MSSV>2010002</MSSV>
+    <HoVaTenLot>Trần Thị</HoVaTenLot>
+    <Ten>Bình</Ten>
+    <GioiTinh>false</GioiTinh>
+    <NgaySinh>2002-08-20T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>251234568</SoCMND>
+    <SoDienThoai>0987654321</SoDienThoai>
+    <DiaChiLienLac>29 Yersin, Đà Lạt</DiaChiLienLac>
+    <MonHocDangKy>
+      <MonHoc>Hệ điều hành</MonHoc>
+      <MonHoc>Phương pháp NCKH</MonHoc>
+      <MonHoc>Lập trình trên thiết bị di động</MonHoc>
+    </MonHocDangKy>
+  </Student>
+  <Student>
+    <MSSV>2110015</MSSV>
+    <HoVaTenLot>Lê Hoàng</HoVaTenLot>
+    <Ten>Cường</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2003-11-02T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <SoCMND>251234569</SoCMND>
+    <SoDienThoai>0905123456</SoDienThoai>
+    <DiaChiLienLac>10 Đinh Tiên Hoàng, Đà Lạt</DiaChiLienLac>
+    <MonHocDangKy>
+      <MonHoc>Lập trình mạng</MonHoc>
+      <MonHoc>An toàn và bảo mật hệ thống</MonHoc>
+    </MonHocDangKy>
+  </Student>
+  <Student>
+    <MSSV>1910088</MSSV>
+    <HoVaTenLot>Phạm Ngọc</HoVaTenLot>
+    <Ten>Dung</Ten>
+    <GioiTinh>false</GioiTinh>
+    <NgaySinh>2001-05-12T00:00:00</NgaySinh>
+    <Lop>CTK43</Lop>
+    <SoCMND>251234570</SoCMND>
+    <SoDienThoai>0934567890</SoDienThoai>
+    <DiaChiLienLac>12 Bùi Thị Xuân, Đà Lạt</DiaChiLienLac>
+    <MonHocDangKy>
+      <MonHoc>Mạng máy tính</MonHoc>
+      <MonHoc>Hệ điều hành</MonHoc>
+      <MonHoc>Đồ án cơ sở</MonHoc>
+    </MonHocDangKy>
+  </Student>
+</ArrayOfStudent>

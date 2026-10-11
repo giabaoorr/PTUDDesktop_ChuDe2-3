@@ -1,0 +1,4 @@
+2010001*Nguyễn Văn An*1*15/03/2002*CTK44*0912.345.678*an@gmail.com*1 Phù Đổng Thiên Vương, Đà Lạt*
+2010002*Trần Thị Bình*0*20/08/2002*CTK44*0987.654.321*binh@gmail.com*29 Yersin, Đà Lạt*
+2110015*Lê Hoàng Cường*1*02/11/2003*CTK45*0905.123.456*cuong@gmail.com*10 Đinh Tiên Hoàng, Đà Lạt*
+1910088*Phạm Ngọc Dung*0*12/05/2001*CTK43*0934.567.890*dung@gmail.com*12 Bùi Thị Xuân, Đà Lạt*

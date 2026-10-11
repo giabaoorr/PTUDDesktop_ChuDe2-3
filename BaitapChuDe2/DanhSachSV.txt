@@ -1,0 +1,5 @@
+SV.00001*Nguyễn Văn An*20/05/2001*Đà Lạt*CTK31*1*Mạng truyền thông,Công nghệ phần mềm*SV.00001.jpg
+SV.00002*Trần Thị Bình*15/08/2001*Đức Trọng*CTK32*0*Khoa học máy tính,Trí tuệ nhân tạo*SV.00002.jpg
+SV.00003*Lê Hoàng Cường*10/01/2002*Bảo Lộc*CTK33*1*Hệ thống thông tin*SV.00003.jpg
+SV.00004*Phạm Ngọc Dung*25/11/2002*Nha Trang*CTK34*0*Tin học ứng dụng*SV.00004.jpg
+SV.00005*Võ Minh Đức*30/03/2001*Đơn Dương*CTK31*1*Mạng truyền thông*SV.00005.jpg

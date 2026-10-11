@@ -1,0 +1,4 @@
+2010001|Nguyễn Văn|An|Nam|15/03/2002|CTK44|251234567|0912345678|1 Phù Đổng Thiên Vương, Đà Lạt|Mạng máy tính,Lập trình CSDL,Đồ án cơ sở
+2010002|Trần Thị|Bình|Nữ|20/08/2002|CTK44|251234568|0987654321|29 Yersin, Đà Lạt|Hệ điều hành,Phương pháp NCKH,Lập trình trên thiết bị di động
+2110015|Lê Hoàng|Cường|Nam|02/11/2003|CTK45|251234569|0905123456|10 Đinh Tiên Hoàng, Đà Lạt|Lập trình mạng,An toàn và bảo mật hệ thống
+1910088|Phạm Ngọc|Dung|Nữ|12/05/2001|CTK43|251234570|0934567890|12 Bùi Thị Xuân, Đà Lạt|Mạng máy tính,Hệ điều hành,Đồ án cơ sở
